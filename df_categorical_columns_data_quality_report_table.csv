@@ -1,0 +1,9 @@
+,count,unique,top,freq,mode,freq_mode,%mode,2ndmode,freq_2ndmode,%2ndmode,% Missing/Unknown
+status,10000,2,Laboratory-confirmed case,9340,Laboratory-confirmed case,9340,93.4,Probable Case,660,6.6000000000000005,0.0
+sex,10000,4,Female,5238,Female,5238,52.38,Male,4680,46.800000000000004,0.82
+age_group,10000,10,20 - 29 Years,1860,20 - 29 Years,1860,18.6,30 - 39 Years,1605,16.05,0.1
+race_ethnicity,10000,9,Unknown,4143,Unknown,4143,41.43,"White, Non-Hispanic",3284,32.84,42.54
+hosp,10000,4,No,5223,No,5223,52.23,Missing,2352,23.52,41.25
+icu,10000,4,Missing,7695,Missing,7695,76.95,Unknown,1240,12.4,89.35000000000001
+death,10000,2,No,9680,No,9680,96.8,Yes,320,3.2,0.0
+medcond,10000,4,Missing,7532,Missing,7532,75.32,No,885,8.85,82.83
